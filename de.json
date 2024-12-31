@@ -1,0 +1,72 @@
+{
+  "tooltipButton": "Anleitung anzeigen",
+  "guideTitle": "Benutzeranleitung für das Formular",
+  "guideIntro": "Dieses Formular dient zur Eingabe und Verwaltung von Produktdaten wie SKU, Beschreibung, Farbe und Größe. Folgen Sie den Anweisungen, um Daten korrekt zu erfassen.",
+  "formFieldsTitle": "Formularfelder",
+  "languageSelection": "Sprache: Wählen Sie Deutsch (DE), Englisch (EN) oder Polnisch (PL). Die Sprache beeinflusst alle Beschriftungen.",
+  "labelSku": "SKU",
+  "labelDescription": "Beschreibung",
+  "labelColor": "Farbe",
+  "labelSize": "Größe",
+  "fieldSku": "SKU: Geben Sie die Produktnummer ein.",
+  "fieldDescription": "Beschreibung: Erfassen Sie eine kurze Produktbeschreibung.",
+  "fieldColorSize": "Farbe & Größe: Tragen Sie Farbe und Größe des Produkts in die entsprechenden Felder ein.",
+  "buttonsShortcutsTitle": "Schaltflächen und Tastenkombinationen",
+  "shortcutSubmit": "Submit-Button: speichert die eingegebenen Daten, wenn alle Pflichtfelder ausgefüllt sind. Tastenkombination: Enter.",
+  "shortcutReset": "Reset-Button: Löscht alle Eingaben und setzt das Formular zurück. Tastenkombination: Alt + R.",
+  "shortcutPrint": "Print Button: Öffnet die Druckvorschau des Formulars. Tastenkombination: Ctrl + P.",
+  "additionalFunctionsTitle": "Zusatzfunktionen",
+  "autoResetTitle": "Auto-Reset",
+  "autoResetOn": "Ein: Formular wird nach Absenden automatisch zurückgesetzt.",
+  "autoResetOff": "Aus: Eingaben bleiben erhalten.",
+  "autoInputTitle": "Auto Eingabe",
+  "autoInputOn": "Ein: Produktdaten werden automatisch befüllt, wenn verfügbar.",
+  "autoInputOff": "Aus: Manuelle Eingabe erforderlich.",
+  "faultyTitle": "Faulty",
+  "faultyDescription": "Aktivieren Sie diesen Schalter, um ein Produkt als fehlerhaft zu kennzeichnen.",
+  "screenModesTitle": "Bildschirmmodi",
+  "layoutNote": "Hinweis: Das Layout passt sich automatisch an die Bildschirmgröße an.",
+
+  "description": "Beschreibung",
+  "color": "Farbe",
+  "size": "Größe",
+  "submit": "Absenden",
+  "reset": "Zurücksetzen",
+  "print": "Drucken",
+  "autoReset": "Auto-Reset",
+  "faultySwitch": "Faulty Label",
+  "autoDisplay": "Auto Display",
+  "fieldSkuText": [{ "label": "SKU:", "class": "text-bold" }, "Geben Sie die Produktnummer ein."],
+  "fieldDescriptionText": [
+    { "label": "Beschreibung:", "class": "text-bold" },
+    "Erfassen Sie eine kurze Produktbeschreibung."
+  ],
+  "fieldColorSizeText": [
+    { "label": "Farbe & Größe:", "class": "text-bold" },
+    "Tragen Sie Farbe und Größe des Produkts in die entsprechenden Felder ein."
+  ],
+  "submitButtonText": [
+    { "label": "Submit-Button:", "class": "text-bold" },
+    "speichert die eingegebenen Daten, wenn alle Pflichtfelder ausgefüllt sind."
+  ],
+  "resetButtonText": [
+    { "label": "Reset-Button:", "class": "text-bold" },
+    "Löscht alle Eingaben und setzt das Formular zurück."
+  ],
+  "printButtonText": [{ "label": "Print-Button:", "class": "text-bold" }, "Öffnet die Druckvorschau des Formulars."],
+
+  "autoResetOnText": "Ein: Formular wird nach Absenden automatisch zurückgesetzt.",
+  "autoResetOffText": "Aus: Eingaben bleiben erhalten.",
+  "autoInputOnText": "Ein: Produktdaten werden automatisch befüllt, wenn verfügbar.",
+  "autoInputOffText": "Aus: Manuelle Eingabe erforderlich.",
+  "faultyActivateText": "Aktivieren Sie diesen Schalter, um ein Produkt als fehlerhaft zu kennzeichnen.",
+  "portraitMode": [
+    { "label": "Hochformat:", "class": "text-bold" },
+    "Vertikale Anordnung, geeignet für mobile Geräte."
+  ],
+  "landscapeMode": [
+    { "label": "Querformat:", "class": "text-bold" },
+    "Breitere Ansicht mit Info-Feld neben den Eingabefeldern."
+  ],
+  "colorSize": "Farbe & Größe"
+}
